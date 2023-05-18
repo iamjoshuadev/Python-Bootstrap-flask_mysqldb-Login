@@ -1,0 +1,14 @@
+############################################################
+####                                                    ####
+####                                                    ####
+####           Joshua Emil Peña Rosario                 ####
+####       Crear base de datos e Importar tabla         ####    
+####                                                    ####    
+####            1. Crea la base de datos                ####
+####            llamada client                          ####
+####            2. ve a la pestaña importar             ####
+####            y elige el rchivo users.sql             ####
+####            3. Por ultimo has click en el           ####
+####            boton de enviar                         ####
+####                                                    ####
+############################################################
