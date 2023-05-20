@@ -4,7 +4,7 @@
   1. Python
   2. HTML
   3. MySQL
-  4. BOSSTSTRAP
+  4. CSS
 
 ## Joshua Emil Peña Rosario
 
